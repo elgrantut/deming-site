@@ -1,0 +1,14 @@
+{
+  "name": "deming-consulting",
+  "version": "2.0.0",
+  "description": "procesadora de pago",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matias Sanchez",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^4.14.1"
+  }
+}
